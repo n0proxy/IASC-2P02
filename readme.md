@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello world
+Hello world (in kramdown)!
 
 ![](images/sunset.jpg)
 
