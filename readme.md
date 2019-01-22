@@ -2,7 +2,11 @@
 
 ## About me
 
-Hello world (in kramdown)!
+### (In Kramdown!)
+
+Hello world!
+
+My name is Nicole and I'm in my second year of the IASC program at Brock University in Ontario, studying game design and digital media.
 
 ![](images/sunset.jpg)
 
