@@ -1,6 +1,9 @@
-# Blog post
+# Academic blog post - the datasets of Digital Humanities
 
-Academic blog post - the datasets of Digital Humanities
+
+## Prompt:
+### Ramsay and Drucker's critique of Moretti should be taken to heart by digital humanists: any reliance on externally-produced data sets should be abolished in the field. Instead, each digital humanist will show the interpretive methods used to produce their unique data sets, and no two scholars will ever use the same data to conduct their research. Doing so will allow digital scholarship to fully embrace its humanities background, foregrounding subjective experience above all else. Established datasets are for scientists, and they have no place in humanities research. All data should be interpretively created.
+
 
 
 
@@ -13,8 +16,11 @@ In direct opposition, Drucker echoes my own thoughts when he says, “…the rep
 To take it one step further, Ramsay has an article in which he talks about this distracting argument coming from the introduction of computers and computing into the humanities, bringing the ideas of applying scientific views and methods to a space that should be defined by humanistic study (Reading Machines, 2011). As I mentioned, the idea of data being ‘raw’ and unbiased has come to humanities from the math and science fields, and the growth of humanities computing becoming an injection site by way of the computer itself has a ring of truth to it. Computers organize and display data, but we characterize computers as number-crunching, fact-distributing machines, and what we get from a computer (even if the computer is only organizing and displaying the data) has the air of pure, raw, scientific data, much in the same way that graphs do according to Drucker. In a recent article by Mann, How Technology Means: Texts, History, and Their Associated Technologies, he talks about computing’s inherent impact on data through the lens of recording and preserving historical artifacts with technology: “…technologies used to study and represent the past are not hermeneutically neutral…it is important to remember that the past is only ever approximately apprehended: one cannot simply “go back,” but must rely on constructed memories, artifacts, written accounts, recordings, etc” (2018), reinforcing my argument that organizing or collecting humanities data with computers does not change the data’s inherent biases or limitations.
 
 
+<iframe style='width: 794px; height: 438px;' src='//voyant-tools.org/tool/Trends/?query=criti*&query=data*&mode=&corpus=641ce9645933246ab3f229493ce4530a'></iframe>
 
-{:center: style="text-align: center"}Figure 1
-Use of the words data* (including datasets, etc) vs criti* (including critical, criticism, etc) in Moretti, Drucker, Ramsay, and Mann (using voyant-tools.org){:center}
+Figure 1 {: style="text-align: center"}
+Use of the words data* (including datasets, etc) vs criti* (including critical, criticism, etc) in Moretti, Drucker, Ramsay, and Mann (using voyant-tools.org)
+{: style="text-align: center"}
+
 
 Any analysis or interpretation of data is only as good as its acknowledgement of the data’s limitations and biases. Figure 1 paints an interesting picture – but of what? There is no single meaning or theory that this graph proves. The actual data this graph is built on consists of four plain text documents that are translations of the four articles I’ve mentioned, and those translations have their limitations in going from PDF to plain text. Words may have been missed or transcribed incorrectly, or used in ways that my wildcard search wasn’t equipped to include. Just like those things are important for me to mention when I use this graph, it would be important for another scholar to mention those limitations and biases if using my graph in their own article – and just so, it is important to acknowledge them still if they were to use my ‘raw data’ text files in a graph of their own. The argument of whether humanities data can be raw or not is misleading when, as humanities scholars, we simply need to remember our roots and be transparent about the scope and biases of our data.
