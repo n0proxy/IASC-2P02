@@ -24,11 +24,11 @@ This collaborative presentation project is to introduce and analyze the Modernis
 
 Collaboration is an important part of academic culture, as humanity has advanced this far only by pooling our knowledge to create stepping stones for future research and working with on another on projects themselves. When working together with people on a single project, organization and division of labor is key – divide and conquer, after all. Multiple people applying their strengths and focus to different (though sometimes overlapping) sections of a project enables a higher level of work and research compared to a single person having to work to their strengths as well as their weaknesses. This is how we approached this collaborative project, as seen in this picture of one presentation slide that I focused on.
 
-![](images/modernpic1.png)
+![](images/modernpic1.PNG)
 
 It’s also important to be aware of collaboration and team organization as skills all their own, and to reflect on what decisions were made in organizing labor and what tools were used to facilitate collaboration. Being clear to your team about who is doing what – and the team being clear with each other on what their strengths are and how they should be best put to use – and what deadlines and guidelines are is extremely important. My team used the most fluid, real-time collaboration tool at our disposal, which was Google Slides, but also used GitHub to secure and store our files (one of my own contributions for this purpose can be seen [here]( https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/75971ef1b5bdd7b2f04d5ecf8b9dd732a56b993f)), and therefore took time to reflect on the tools we used and their effectiveness as part of our research and presentation. This was another powerpoint slide that fell under my strengths and can be seen below.
 
-![](images/modernpic2.png)
+![](images/modernpic2.PNG)
 
 
 ## Research Presentation
