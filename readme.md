@@ -7,7 +7,7 @@ My name is Nicole and I'm in my second year of the IASC program at Brock Univers
 ![](images/sunset.jpg)
 
 
-## Featured Project: [The Datasets of Digital Humanities]
+## Featured Project: The Datasets of Digital Humanities
 
 ![](images/featured.jpg)
 
@@ -18,9 +18,9 @@ Here is my 250-word statement describing how this research evolved over time. I 
 Read [The Datasets of Digital Humanities](blog)
 
 
-## Collaborative Project: [The Modern Journal Project]
+## Collaborative Project: The Modernist Journals
 
-Here is my 100-word project description.
+This collaborative presentation project is to introduce and analyze the Modernist Journals Project, which is an online collection of Modernist journals from all over the English-speaking world and includes tools for text analysis from among the journal entries, including search functions, datasets on the metadata of journals such as publish date, nationality, topic, and more, with the ability to combine this data in different ways to produce a multitude of information. We created several different kinds of graphs looking at how many articles different regions of the world were producing at different times in history, and their growth or decline that were likely related to historical events like war and national independence, and presented all of the above in a powerpoint presentation to our peers. 
 
 Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/5ffe79e41eabd264a3ebece22f74ebaa9de748c6)). I also approach collaboration in a ways, which is reflected in b work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/2ae52b7e79c421887a29001ff5d54b49d09c7026)). I also contributed x assets to my team, seen below.
 
@@ -29,9 +29,9 @@ Here is my 250-word collaboration statement. I approach collaboration in x ways,
 
 ## Research Presentation
 
-[Title goes here](reveal/index.html)
+[The Modernist Journal Project](reveal/index.html)
 
 
 ## Academic Blog
 
-[Title goes here](blog)
+[The Datasets of Digital Humanities](blog)
