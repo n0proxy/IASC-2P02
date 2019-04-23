@@ -2,7 +2,7 @@
 
 ## Bio
 
-My name is Nicole and I'm in my second year of the IASC program at Brock University in Ontario, studying game design and digital media. This year has piqued my interest in User and Interface design and I hope to take more classes on relevant topics in future years to tailor my degree towards that!
+My name is Nicole and I'm in my second year of the IASC program at Brock University in Ontario, studying game design and digital media. This year has piqued my interest in user and interface design and cultural studies, which I’m interesting in studying further. Academic institutions have their own culture and the study of that in particular is fascinating, which is why some of my projects focus on the academic view itself as a topic of study rather than just a lens through which to conduct scholarly studies. Scholarly points of view also tend to clash with each other the way subcultures do, further highlighting the validity of defining and studying it as a culture all its own rather than a simple tool or location that’s used to produce research without influencing it. Scholars need to be aware of the impact of their academic point of view on their research and call that out within said research, being aware of its presence the way one should be aware of the impact or limitation of any other influence, tool, or method. In the future, I would like to study this impact of academia itself in fields other than just digital humanities, and even compare how this influence impacts things and is also treated differently in different fields of study.
 
 ![](images/sunset.jpg)
 
