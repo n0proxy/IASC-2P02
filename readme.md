@@ -9,7 +9,7 @@ My name is Nicole and I'm in my second year of the IASC program at Brock Univers
 
 ## Featured Project: The Datasets of Digital Humanities
 
-![](images/featured.jpg)
+![](images/blog_voyant.PNG)
 
 This academic blog article tackles the question of raw data’s use and even existence in the digital humanities, struggling between treating datasets like one would in sciences as pure, raw data that can be used by different scholars, and treating data like a unique humanities resource influenced and tailored by the research it was collected for and the methods used to collect it. In this article, explain how succumbing to this ‘one or the other’ thinking is inherently unfitting for the digital humanities and that the answer lies in simply being aware of data’s influences and limitations and including these factors as part of your research, allowing other scholars to either knowingly use your data – with the same disclaimers – or collect their own data with a better idea of what data their research needs to cover and include or be wary of. This kind of self-awareness within academia is extremely important and perhaps often undervalued, as reusing datasets that don’t fit your needs or using research without looking at the data that goes into it can result in meaningless, generalized ‘data’ such as graphs, tables, and concepts, that don’t inherently say or prove anything but can be made to fit a theory and therefore are worthless to build more research off of. This is something that all academics and researchers within humanities should be aware of and understand, to be able to better critically analyze texts and the data behind them before treating it like raw, unbiased data that can be reused without due consideration and explanation.
 
