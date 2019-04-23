@@ -1,4 +1,4 @@
-# IASC 2P02 | Alex Christie
+# IASC 2P02 | Nicole Morgan
 
 ## Bio
 
