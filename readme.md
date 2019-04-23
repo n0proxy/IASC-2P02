@@ -22,9 +22,13 @@ Read [The Datasets of Digital Humanities](blog)
 
 This collaborative presentation project is to introduce and analyze the Modernist Journals Project, which is an online collection of Modernist journals from all over the English-speaking world and includes tools for text analysis from among the journal entries, including search functions, datasets on the metadata of journals such as publish date, nationality, topic, and more, with the ability to combine this data in different ways to produce a multitude of information. We created several different kinds of graphs looking at how many articles different regions of the world were producing at different times in history, and their growth or decline that were likely related to historical events like war and national independence, and presented all of the above in a powerpoint presentation to our peers. 
 
-Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/5ffe79e41eabd264a3ebece22f74ebaa9de748c6)). I also approach collaboration in a ways, which is reflected in b work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/2ae52b7e79c421887a29001ff5d54b49d09c7026)). I also contributed x assets to my team, seen below.
+Collaboration is an important part of academic culture, as humanity has advanced this far only by pooling our knowledge to create stepping stones for future research and working with on another on projects themselves. When working together with people on a single project, organization and division of labor is key – divide and conquer, after all. Multiple people applying their strengths and focus to different (though sometimes overlapping) sections of a project enables a higher level of work and research compared to a single person having to work to their strengths as well as their weaknesses. This is how we approached this collaborative project, as seen in this picture of one presentation slide that I focused on.
 
-![](images/collaboration.jpg)
+![](images/modernpic1.png)
+
+It’s also important to be aware of collaboration and team organization as skills all their own, and to reflect on what decisions were made in organizing labor and what tools were used to facilitate collaboration. Being clear to your team about who is doing what – and the team being clear with each other on what their strengths are and how they should be best put to use – and what deadlines and guidelines are is extremely important. My team used the most fluid, real-time collaboration tool at our disposal, which was Google Slides, but also used GitHub to secure and store our files (which can be seen [here]( https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/75971ef1b5bdd7b2f04d5ecf8b9dd732a56b993f)), and therefore took time to reflect on the tools we used and their effectiveness as part of our research and presentation. This was another powerpoint slide that fell under my strengths and can be seen below.
+
+![](images/modernpic2.png)
 
 
 ## Research Presentation
